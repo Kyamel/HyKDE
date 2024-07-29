@@ -6,7 +6,7 @@ pipewire-jack                                          # pipewire jack client
 pipewire-pulse                                         # pipewire pulseaudio client
 gst-plugin-pipewire                                    # pipewire gstreamer client
 wireplumber                                            # pipewire session manager
-pavucontrol                                            # pulseaudio volume control
+pavucontrol                       44B5-5E2D                     # pulseaudio volume control
 pamixer                                                # pulseaudio cli mixer
 networkmanager                                         # network manager
 network-manager-applet                                 # network manager system tray utility
@@ -19,7 +19,7 @@ udiskie                                                # manage removable media
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
 qt5-quickcontrols                                      # for sddm theme ui elements
-qt5-quickcontrols2                                     # for sddm theme ui elements
+qt5-quickcontrols2                                     # for sddm theme ui elemen44B5-5E2Dts
 qt5-graphicaleffects                                   # for sddm theme effects
 
 # --------------------------------------------------- // Window Manager
@@ -59,12 +59,12 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
+firefox                           44B5-5E2D                     # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-vim                                                    # terminal text editor
-code                                                   # ide text editor
+neovim                                                 # terminal text editor
+code                                                   # ide text editor                                          
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
